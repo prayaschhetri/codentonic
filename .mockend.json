@@ -1,0 +1,20 @@
+{
+  "meeting": {
+    "id": "string",
+    "name": "string",
+    "purpose": "string",
+    "email": "string",
+    "time": "string",
+    "start": "date",
+    "end": "date
+  },
+  "meetingRequest": {
+    "id": "string",
+    "name": "string",
+    "purpose": "string",
+    "email": "string",
+    "time": "string",
+    "start": "date",
+    "end": "date
+  }
+}
